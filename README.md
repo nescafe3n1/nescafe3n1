@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Leueil Shem Naranjo  
 
-<!--
-**nescafe3n1/nescafe3n1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **IT Student** at **National University Manila** with a focus on **software development, web technologies, and databases**.  
+I enjoy learning new technologies, improving my coding skills, and building solutions that are efficient and user-friendly.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools  
+
+### Programming & Markup  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
+</p>
+
+### Frameworks & Tools  
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio"/>
+</p>
+
+---
+
+## 📖 Interests  
+- 💻 **Web Development** – Frontend & Backend with Node.js and SQL  
+- 📱 **Mobile Development** – Android Studio & Java  
+- 🔐 **Cybersecurity** – networking, system defense, ethical hacking  
+- ⚙️ **Software Development** – problem-solving and algorithm design  
+
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/leueilshem/)*  
+- 📧 Email: *(leueilshem@gmail.com)*  
+
+---
